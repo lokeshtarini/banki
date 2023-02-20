@@ -1,0 +1,62 @@
+#section8 .bgColorx{
+
+
+    background: #10153D;  
+    background: -webkit-linear-gradient(to right,   #051C1D,);
+    background: linear-gradient(to right,   #051C1D); 
+    position: relative;
+    height: 60%;
+    }
+    #section8 .rx1{
+    position: relative;
+    bottom: 50px;
+
+}
+#section8 .sign a{
+    border: 2px solid #5846e0;
+    background-color: #5846e0;
+}
+#section8 .sign a:hover{
+    border: 2px solid #5846e0;
+    background-color: #ffffff00;
+}
+#section8 .get:hover{
+    color: #5846e0;
+}
+
+#section8 .bodyfont{
+
+
+font-family: sans-serif
+}
+
+#section8 .para{
+    
+    color: #9599BB;
+}
+    
+#section8 .an{
+   
+        animation: 2s anim-lineUp ease-out ;
+      }
+      @keyframes anim-lineUp {
+        0% {
+          opacity: 0;
+          transform: translateY(80%);
+        }
+        20% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+          transform: translateY(0%);
+        }
+        100% {
+          opacity: 1;
+          transform: translateY(0%);
+        }
+      }
+
+    
+    
+     
